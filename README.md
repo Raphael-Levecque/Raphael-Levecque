@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+I am Raphael Levecque, student in computer science at Université de Lille in France. 
 
-<!--
-**Raphael-Levecque/Raphael-Levecque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This github profile contains repositories of different projects I have worked on during my studies. 
 
-Here are some ideas to get you started:
+Here is a summary of what you can find : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Java Zombicide board game
+
+## ReactJS meteo website 
+
+## Javascript video game 
+
+## Java board game
+
+
+
