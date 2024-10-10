@@ -2,7 +2,7 @@
 
 Je suis Raphaël Levecque, étudiant en licence 3 informatique à l'Université de Lille en France. 
 
-Ce profil github contient les dépôts de quelques projets que j'ai réalisé seul ou en groupe durant mes études. Il sera mis à jour avec les projets en cours. 
+Ce profil github contient les dépôts de quelques projets que j'ai réalisés seul ou en groupe durant mes études. Il sera mis à jour avec d'autres projets passés et d'autres projets en cours. 
 
 Pour l'instant, voici ce que vous pouvez trouver : 
 
