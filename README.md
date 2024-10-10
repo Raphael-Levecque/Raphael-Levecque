@@ -8,12 +8,12 @@ Pour l'instant, voici ce que vous pouvez trouver :
 
 ## Le jeu de plateau Zombicide en Java, en groupe (L2 - Semestre 4) 
 
-- Objectifs :
+* Objectifs :
  - Mettre en oeuvre les concepts de base de la programmation orientée sur un projet d'une plus grande envergure
  - Concevoir un modèle à partir d'une définition des règles textuelle
  - Organiser et mener à son terme un projet en groupe
-- Durée : 2 à 4 heures par semaines, durant 12 semaines.
-- Technologies :
+* Durée : 2 à 4 heures par semaines, durant 12 semaines.
+* Technologies :
  - Java
  - JUnit
  - Eclipse
@@ -21,19 +21,19 @@ Pour l'instant, voici ce que vous pouvez trouver :
 
 ## Site pour consulter et comparer des données météos en ReactJS (L2 - Semestre 4)
 
-- Objectifs :
+* Objectifs :
  - Acquérir une première expérience en ReactJS
  - Savoir structurer et développer une application en ReactJS
-- Technologies :
+* Technologies :
  - ReactJS
  - VisualStudioCode
  - Gitlab
 
 ## Jeu de l'oie en Java (L2 - Semestre 1)
 
-- Objectifs :
+* Objectifs :
  - Confirmer la compréhension des principes de bases de la programmation orientée objet
-- Technologies :
+* Technologies :
  - Jav
  - VisualStudioCode
  - Gitlab
